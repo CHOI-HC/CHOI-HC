@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)<br>
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=Apple&logoColor=white)
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Google_colab&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white)
