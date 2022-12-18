@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Llearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
