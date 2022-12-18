@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)<br>
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)<br>
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=Apple&logoColor=white)
+![LG](https://img.shields.io/badge/-LGtwins-A50034?style=flat&logo=LG&logoColor=white)
