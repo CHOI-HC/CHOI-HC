@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)<br>
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Llearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white)<br>
-![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Googlecolab&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)<br>
