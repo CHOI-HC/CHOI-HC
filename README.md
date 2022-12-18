@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, it`s Choi 👋
 
 <!--
 **CHOI-HC/CHOI-HC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
