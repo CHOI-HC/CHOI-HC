@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![scikit_learn]([https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit_learn&logoColor=white))
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
