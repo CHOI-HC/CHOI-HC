@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
-![Apache]([https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white)<br>
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white)<br>
 ![Apple](https://img.shields.io/badge/-Apple-000000?style=flat&logo=Apple&logoColor=white)
