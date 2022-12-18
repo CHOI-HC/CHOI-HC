@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Googlecolab&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
