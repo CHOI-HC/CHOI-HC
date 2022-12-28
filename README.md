@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
 - 경제학 전공
-- 2022.09. ~ 2023.02 K-Digital Training 아시아 경제 교육센터, 빅데이터 기반 디지털 산업융합 서비스 개발자 양성과정
+- 2022.09. ~ 2023.02 K-Digital Training 아시아 경제 교육센터
+  - 교육 과정: 빅데이터 기반 디지털 산업융합 서비스 개발자 양성과정
   - 교육 내용: 데이터 수집/전처리/분석/MySQL/ML/DL
 - 주 사용 언어: Python
