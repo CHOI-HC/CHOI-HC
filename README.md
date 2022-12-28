@@ -1,4 +1,4 @@
-### Hi, There👋
+### It`s Choi👋
 
 <!--
 **CHOI-HC/CHOI-HC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
+
+- 경제학 전공
+- 2022.09. ~ 2023.02 K-Digital Training 아시아 경제 교육센터, 빅데이터 기반 디지털 산업융합 서비스 개발자 양성과정
+  - 교육 내용: 데이터 수집/전처리/분석/MySQL/ML/DL
+- 주 사용 언어: Python
