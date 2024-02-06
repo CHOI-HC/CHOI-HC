@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
+
+2023.04 ~ Eloicube
