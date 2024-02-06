@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)<br>
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Googlecolab&logoColor=white)
