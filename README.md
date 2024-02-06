@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Python&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat&logo=C%23&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat&logo=C%23&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)<br>
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
