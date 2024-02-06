@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![SqlServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)<br>
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white)
 ![Google_Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=Googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
